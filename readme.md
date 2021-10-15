@@ -12,6 +12,7 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways
 
 ## Activity 6
 The new UI makes the selection form and search bar in different lines, which makes users have a clearer view of what they can select and where to search. In contrast, the previous one's selection form is not seperated appropriately, which made users hard to find the places to select.
+
 In the result page, the new UI adds lines in the result table to seperate different parts of the table, which makes the results displayed more clearly.
 
 
