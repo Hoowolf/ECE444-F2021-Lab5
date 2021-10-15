@@ -6,9 +6,9 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways
 ![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab3/blob/main/screenshot/act1.jpg)
 
 ## Activity 2-5
-![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab5/blob/main/screenshot/homepage.jpg)
-![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab5/blob/main/screenshot/resultform.jpg)
-![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab5/blob/main/screenshot/resulttable.jpg)
+![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab5/blob/styling-practice/screenshot/homepage.jpg)
+![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab5/blob/styling-practice/screenshot/resultform.jpg)
+![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab5/blob/styling-practice/screenshot/resulttable.jpg)
 
 ## Activity 6
 
