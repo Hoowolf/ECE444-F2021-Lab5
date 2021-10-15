@@ -3,7 +3,7 @@ Yuhang Yan
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
 ## Activity 1
-![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab3/blob/main/screenshot/activity1.jpg)
+![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab3/blob/main/screenshot/act1.png)
 
 ## Activity 2-5
 ![alt text](https://github.com/Hoowolf/ECE444-F2021-Lab5/blob/styling-practice/screenshot/homepage.jpg)
